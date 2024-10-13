@@ -35,3 +35,4 @@ public class L2022212034_17_Test {
         assertEquals(L, Solution.findRepeatedDnaSequences("AAAAAAAAAAAAA"));
     }
 }
+//PR：添加测试长度刚好等于10的字符串
